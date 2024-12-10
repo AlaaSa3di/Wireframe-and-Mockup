@@ -19,7 +19,7 @@ Features:
 *Contact info :* Easy-to-find contact details and an interactive map to guide customers to our location.
 Online Ordering (optional): A simple and secure ordering system (if implemented), enabling customers to place orders for pick-up or delivery.
 
-##to view wireframe & mockup click here [Figma design][1].
+## to view wireframe & mockup click here [Figma design][1].
 
 
 [1]: https://www.figma.com/design/TPeScOYkDV2J8ipX4ue97c/Coffee?node-id=29-892&t=79AUlJjxclwECIy6-1
