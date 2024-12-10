@@ -4,6 +4,7 @@ Overview
 This is the official website for Memory caffee , designed to provide customers with a seamless and inviting online experience. The site features a modern, user-friendly interface where visitors can explore the menu, learn about the café’s atmosphere, and discover our unique offerings. The website is fully responsive and optimized for all devices, ensuring a smooth experience whether you’re browsing from a desktop, tablet, or mobile.
 
 Features:
+
 1-Homepage: A welcoming hero section with a beautiful photo of the café and a short introduction to the brand.
 
 2-Menu Section: An interactive menu with detailed descriptions of our coffee and pastry options, including price and dietary information.
