@@ -23,4 +23,4 @@ Online Ordering (optional): A simple and secure ordering system (if implemented)
 ## to view wireframe & mockup click here [Figma design][1].
 
 
-[1]: https://www.figma.com/design/TPeScOYkDV2J8ipX4ue97c/Coffee?node-id=29-892&t=79AUlJjxclwECIy6-1
+[1]: https://www.figma.com/design/TPeScOYkDV2J8ipX4ue97c/Coffee?node-id=7-153&t=GA4gwhMnFBqwugBv-1
